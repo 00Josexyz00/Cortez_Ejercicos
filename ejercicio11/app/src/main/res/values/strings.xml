@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejercicio11</string>
+    <string name="BotonSiguiente">Nombre</string>
+    <string name="tv1">Click en el botón para saber el nombre del programador</string>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="tv2">Nombre: José Cortez</string>
+</resources>
